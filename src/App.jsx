@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
-import pictureOfMyFormalSelf from '../src/asserts/pictureOfMyFormalSelf.jpg';
+import pictureOfMyFormalSelf from './asserts/pictureOfMyFormalSelf.jpg';
 
 function App() {
   return (
